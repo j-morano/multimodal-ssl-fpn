@@ -5,11 +5,11 @@
 
 ## Approach
 
-![image](https://github.com/j-morano/SSL-3D-to-2D/assets/48717183/5b36588b-6c8f-4e4c-af48-227a61125a0b)
+![diagrams-Approach](https://github.com/j-morano/SSL-3D-to-2D/assets/48717183/2cd30e0f-70e6-40ba-9741-8552fdcc0a85)
 
 ## Network architecture
 
-![image](https://github.com/j-morano/SSL-3D-to-2D/assets/48717183/b8c8c73e-33f6-4d56-8822-c95ac0f781b3)
+![diagrams-Architecture](https://github.com/j-morano/SSL-3D-to-2D/assets/48717183/bef83904-b64c-4e54-acde-f2f94c4af45c)
 
 ## Setting up the environment
 
