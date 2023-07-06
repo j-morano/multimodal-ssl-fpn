@@ -11,6 +11,7 @@
 
 ![diagrams-Architecture](https://github.com/j-morano/SSL-3D-to-2D/assets/48717183/40fb6b7c-2479-46e7-aa21-4dc180967e10)
 
+Our proposed 3D-to-2D segmentation network, `FPN`, is available in `models/fusion_nets.py`.
 
 ## Setting up the environment
 
@@ -67,8 +68,6 @@ See `run.sh`.
 
 Available options can be found in `config.py`.
 
-Our proposed 3D-to-2D segmentation network, `FPN`, is available in `models/fusion_nets.py`.
-
 
 ## Citation
 
@@ -76,8 +75,10 @@ If you find this repository useful in your research, please cite:
 
 ```
 @article{morano2021self,
-  title={Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation},
-  author={Morano, Jos{\'e} and Aresta, Guilherme and Lachinov, Dmitrii and Mai, Julia and Schmidt-Erfurth, Ursula and Bogunovi{\'c}, Hrvoje},
+  title={Self-supervised learning via inter-modal reconstruction and feature
+    projection networks for label-efficient 3D-to-2D segmentation},
+  author={Morano, Jos{\'e} and Aresta, Guilherme and Lachinov, Dmitrii and Mai,
+    Julia and Schmidt-Erfurth, Ursula and Bogunovi{\'c}, Hrvoje},
   journal={arXiv preprint arXiv:2106.16071},
   year={2023}
 }
