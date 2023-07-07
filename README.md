@@ -1,7 +1,7 @@
 # Multimodal self-supervised learning and network for 3D-to-2D segmentation
 
 
-**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**, José Morano, Guilherme Aresta, Dmitrii Lachinov, Julia Mai, Ursula Schmidt-Erfurth, Hrvoje Bogunović. Accepted at MICCAI 2023. Available at [arXiv](...).
+**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**, José Morano, Guilherme Aresta, Dmitrii Lachinov, Julia Mai, Ursula Schmidt-Erfurth, Hrvoje Bogunović. Accepted at MICCAI 2023. Available at [arXiv](https://doi.org/10.48550/arXiv.2307.03008).
 
 ## Approach
 
@@ -74,12 +74,13 @@ Available options can be found in `config.py`.
 If you find this repository useful in your research, please cite:
 
 ```
-@article{morano2021self,
-  title={Self-supervised learning via inter-modal reconstruction and feature
-    projection networks for label-efficient 3D-to-2D segmentation},
-  author={Morano, Jos{\'e} and Aresta, Guilherme and Lachinov, Dmitrii and Mai,
-    Julia and Schmidt-Erfurth, Ursula and Bogunovi{\'c}, Hrvoje},
-  journal={arXiv preprint arXiv:2106.16071},
-  year={2023}
+@misc{morano2023selfsupervised,
+      title={Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation}, 
+      author={José Morano and Guilherme Aresta and Dmitrii Lachinov and Julia Mai and Ursula Schmidt-Erfurth and Hrvoje Bogunović},
+      year={2023},
+      eprint={2307.03008},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      doi={10.48550/arXiv.2307.03008}
 }
 ```
