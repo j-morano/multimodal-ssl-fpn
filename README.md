@@ -5,12 +5,12 @@
 
 ## Approach
 
-![image](https://github.com/j-morano/multimodal-ssl-fpn/assets/48717183/34baf433-4563-446f-be22-8c7f1c36c340)
+![image](https://github.com/j-morano/multimodal-ssl-fpn/assets/48717183/c6a9b8e6-66c8-4fbe-9f59-099e9e3bb0a4)
 
 
 ## Network architecture
 
-![image](https://github.com/j-morano/multimodal-ssl-fpn/assets/48717183/511a9e95-994c-47ea-9e7f-9a2f17a1a1aa)
+![image](https://github.com/j-morano/multimodal-ssl-fpn/assets/48717183/26f9b65d-aeeb-4d9f-a82b-80e92b3a77ae)
 
 
 Our proposed 3D-to-2D segmentation network, `FPN`, is available in `models/fusion_nets.py`.
