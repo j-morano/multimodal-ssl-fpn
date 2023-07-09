@@ -98,7 +98,7 @@ Moreover, if you use any of the state-of-the-art networks, please cite the corre
 ```
 
 ```
-@article{Seebck2022,
+@article{seebock2022linking,
   author = {Philipp Seeb\"{o}ck and Wolf-Dieter Vogl and Sebastian M. Waldstein and Jose Ignacio Orlando and Magdalena Baratsits and Thomas Alten and Mustafa Arikan and Georgios Mylonas and Hrvoje Bogunovi{\'{c}} and Ursula Schmidt-Erfurth},
   title = {Linking Function and Structure with {ReSensNet}},
   journal = {Ophthalmology Retina},
