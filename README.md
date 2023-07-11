@@ -1,5 +1,6 @@
 # Multimodal self-supervised learning approach and network for 3D-to-2D tasks
 
+This repository contains the source code of the following article:
 
 **Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**, José Morano, Guilherme Aresta, Dmitrii Lachinov, Julia Mai, Ursula Schmidt-Erfurth, Hrvoje Bogunović. To appear in MICCAI 2023. Available at [arXiv](https://doi.org/10.48550/arXiv.2307.03008).
 
