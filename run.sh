@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_DIR=/run/media/morano/SW1000/OPTIMA/Source/src/GitHub_multimodal-ssl-fpn
+BASE_DIR=/path/to/multimodal-ssl-fpn
 
 source $BASE_DIR/venv/bin/activate
 cd $BASE_DIR
