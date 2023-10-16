@@ -2,14 +2,20 @@
 
 This repository contains the source code of the following article:
 
-**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**, José Morano, Guilherme Aresta, Dmitrii Lachinov, Julia Mai, Ursula Schmidt-Erfurth, Hrvoje Bogunović. To appear in MICCAI 2023. Available at [arXiv](https://doi.org/10.48550/arXiv.2307.03008).
+- J. Morano, G. Aresta, D. Lachinov, J. Mai, U. Schmidt-Erfurth and H. Bogunović, "**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**," MICCAI 2023.
 
-## Approach
+<p align="center">
+  <a href="https://doi.org/10.48550/arXiv.2307.03008">Paper</a> •
+  <a href="assets/Poster.pdf">Poster</a> •
+  <a href="#setting-up-the-environment">How To Use</a>
+</p>
+
+## Inter-modal reconstruction approach
 
 ![image](https://github.com/j-morano/multimodal-ssl-fpn/assets/48717183/c6a9b8e6-66c8-4fbe-9f59-099e9e3bb0a4)
 
 
-## Network architecture
+## 3D-to-2D network architecture
 
 ![image](https://github.com/j-morano/multimodal-ssl-fpn/assets/48717183/26f9b65d-aeeb-4d9f-a82b-80e92b3a77ae)
 
