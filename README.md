@@ -5,7 +5,8 @@ This repository contains the source code of the following article:
 - J. Morano, G. Aresta, D. Lachinov, J. Mai, U. Schmidt-Erfurth and H. Bogunović, "**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**," MICCAI 2023.
 
 <p align="center">
-  <a href="https://doi.org/10.48550/arXiv.2307.03008">Paper</a> •
+  <a href="https://doi.org/10.48550/arXiv.2307.03008">Paper (arXiv)</a> •
+  <a href="https://doi.org/10.1007/978-3-031-43901-8_56">Paper (Springer)</a> •
   <a href="assets/Poster.pdf">Poster</a> •
   <a href="#setting-up-the-environment">How To Use</a>
 </p>
