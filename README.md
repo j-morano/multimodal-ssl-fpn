@@ -78,6 +78,8 @@ See `run.sh`.
 
 Available options can be found in `config.py`.
 
+Examples of the format of the necessary split and data info files can be found in `data_examples/`.
+
 
 ## Citation
 

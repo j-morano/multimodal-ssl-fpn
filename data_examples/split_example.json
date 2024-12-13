@@ -1,0 +1,18 @@
+{
+    "train": [
+        "patient_id_0",
+        "patient_id_1",
+        "patient_id_2",
+        "patient_id_3",
+        "patient_id_4",
+        "patient_id_5"
+    ],
+    "val": [
+        "patient_id_6",
+        "patient_id_7"
+    ],
+    "test": [
+        "patient_id_8",
+        "patient_id_9"
+    ]
+}

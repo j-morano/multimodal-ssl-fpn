@@ -1,0 +1,102 @@
+{
+    "patient_id_0": [
+        {
+            "FileSetId": "01",
+            "Position": "OD",
+            "DayInStudy": "1080"
+        },
+        {
+            "FileSetId": "02",
+            "Position": "OS",
+            "DayInStudy": "180"
+        },
+        {
+            "FileSetId": "03",
+            "Position": "OD",
+            "DayInStudy": "360"
+        }
+    ],
+    "patient_id_1": [
+        {
+            "FileSetId": "04",
+            "Position": "OD",
+            "DayInStudy": "0"
+        }
+    ],
+    "patient_id_2": [
+        {
+            "FileSetId": "05",
+            "Position": "OS",
+            "DayInStudy": "180"
+        }
+    ],
+    "patient_id_3": [
+        {
+            "FileSetId": "06",
+            "Position": "OD",
+            "DayInStudy": "0"
+        },
+        {
+            "FileSetId": "07",
+            "Position": "OD",
+            "DayInStudy": "180"
+        }
+    ],
+    "patient_id_4": [
+        {
+            "FileSetId": "08",
+            "Position": "OD",
+            "DayInStudy": "0"
+        }
+    ],
+    "patient_id_5": [
+        {
+            "FileSetId": "09",
+            "Position": "OD",
+            "DayInStudy": "1080"
+        },
+        {
+            "FileSetId": "10",
+            "Position": "OS",
+            "DayInStudy": "180"
+        }
+    ],
+    "patient_id_6": [
+        {
+            "FileSetId": "11",
+            "Position": "OD",
+            "DayInStudy": "0"
+        }
+    ],
+    "patient_id_7": [
+        {
+            "FileSetId": "12",
+            "Position": "OD",
+            "DayInStudy": "0"
+        }
+    ],
+    "patient_id_8": [
+        {
+            "FileSetId": "13",
+            "Position": "OD",
+            "DayInStudy": "0"
+        },
+        {
+            "FileSetId": "14",
+            "Position": "OS",
+            "DayInStudy": "180"
+        },
+        {
+            "FileSetId": "15",
+            "Position": "OD",
+            "DayInStudy": "360"
+        }
+    ],
+    "patient_id_9": [
+        {
+            "FileSetId": "16",
+            "Position": "OS",
+            "DayInStudy": "0"
+        }
+    ]
+}
