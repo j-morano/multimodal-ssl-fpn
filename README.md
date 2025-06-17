@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2307.03008-red?logo=arXiv&logoColor=white)](https://arxiv.org/abs/2307.03008)
+
 # Multimodal self-supervised learning approach and network for 3D-to-2D tasks
 
 This repository contains the source code of the following article:
